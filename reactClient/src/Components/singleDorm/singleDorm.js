@@ -1,3 +1,6 @@
+/*
+Made by Michael Sollazzo
+*/
 import React, { Component} from 'react'
 import './singleDorm.css';
 import StarRatingComponent from 'react-star-rating-component';

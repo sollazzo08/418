@@ -1,3 +1,7 @@
+/*
+Made by Michael Sollazzo
+*/
+
 import React from 'react'
 import SideBar from '../Sidebar/sidebar';
 import UserDataSection from '../UserDataSection/userDataSection';

@@ -1,3 +1,6 @@
+/*
+Made by Michael Sollazzo
+*/
 import React from 'react'
 
 function Features(props) {

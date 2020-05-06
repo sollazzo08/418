@@ -1,3 +1,7 @@
+/*
+Made by Michael Sollazzo
+*/
+
 import React from 'react';
 import {Switch,Route, useLocation} from 'react-router-dom';
 import DashBoardWrapper from '../../Dash/dashboardWrapper';

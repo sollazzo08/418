@@ -1,3 +1,6 @@
+/*
+Made by Michael Sollazzo
+*/
 import React from 'react'
 import Image1 from "../../../img/stockdormimage.jpg";
 import Image2 from "../../../img/placeholder-profile-male-500x500.png";

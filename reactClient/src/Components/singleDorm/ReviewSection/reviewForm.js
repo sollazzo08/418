@@ -1,3 +1,6 @@
+/*
+Made by Michael Sollazzo
+*/
 import React, { Component } from 'react'
 import axios from '../../../utils/axiosInstance'
 import {auth} from '../../../utils/auth';

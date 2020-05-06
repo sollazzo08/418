@@ -1,3 +1,6 @@
+/*
+Made by Nick Ventura, Michael Sollazzo and Phillip Smith
+*/
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.bundle.min'

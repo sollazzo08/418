@@ -1,3 +1,7 @@
+/*
+Made by Michael Sollazzo
+*/
+
 import React, {useState} from 'react';
 import {useHistory} from 'react-router-dom';
 import UploadImage from './uploadImage';
@@ -17,6 +21,7 @@ function Modal() {
   };
 
   return (
+    // The design of the pop up modal was inpsirded by the documentation at https://reacttraining.com/react-router/web/example/modal-gallery
     //displays modal on click
     <div
       onClick={()=> showModal(status)}

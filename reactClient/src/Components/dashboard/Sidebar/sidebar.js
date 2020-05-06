@@ -1,3 +1,6 @@
+/*
+Made by Michael Sollazzo
+*/
 import React, {useState}from 'react'
 import {Link, useLocation} from 'react-router-dom';
 import ProfileImgPlaceholder from '../../../img/placeholder-profile-male-500x500.png';

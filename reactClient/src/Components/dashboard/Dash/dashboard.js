@@ -1,3 +1,6 @@
+/*
+Made by Michael Sollazzo
+*/
 import React from 'react';
 import SettingsModal from '../Sidebar/UserSettings/SettingsModal';
 import './dashboard.css';

@@ -1,3 +1,6 @@
+/*
+Made by Michael Sollazzo
+*/
 import React, {useState} from 'react'
 import placeholder from '../../../img/placeholder-profile-male-500x500.png';
 import {retrieveProfileImage} from '../../../utils/images';
