@@ -226,7 +226,11 @@ class AddDormForm extends React.Component {
             return null
         }
     }
-
+    
+    /*
+        Michael Sollazzo 
+        Designed the layout and look of the addDorm form
+    */
     render() {
         return (
             <div className="container">
